@@ -1,6 +1,6 @@
 :root {
     --color-0:#ffffff;
-    --color-1:#000000;
+    --color-1:#a5a5a5;
     --color-2:#f8f3ed;
     --color-3:#000000;
     --font-principal:'MiFuente';
@@ -816,7 +816,7 @@ footer {
     width: 100%;
     height: auto;
     margin: 0;
-    background-color: var(--color-1);
+    background-color: var(--color-3);
     color: var(--color-0);
       font-family: var(--font-principal);
     padding: 40px 0;
